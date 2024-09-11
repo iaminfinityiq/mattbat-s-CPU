@@ -1,0 +1,5 @@
+{
+    "register-size": 8,
+    "memory-size": 8,
+    "instruction-size": 64
+}
